@@ -36,7 +36,7 @@ function Home(props) {
 
                     <div className="buttons">
                         <button className="no">no</button>
-                        <a href="/#projects">
+                        <a href="#projects">
                         <button>ok</button>
                         </a>
                     </div>

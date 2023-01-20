@@ -54,7 +54,7 @@ function ProjectWindow({project, setProject, onPrevious, onNext, ...props}) {
 
                 <div className="buttons">
                     <a href={data.link} target='new'><button>{data.srcText}</button></a>
-                    <a href="/#projects">
+                    <a href="#projects">
                         <button onClick={() => setProject(null)}>go back</button>
                     </a>
                 </div>

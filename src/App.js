@@ -21,9 +21,9 @@ function App() {
             <a href='https://nomnomdev.itch.io/' target='new'><img src={itchIcon} alt="itch" /></a>
         </div>
 
-        <a href='/#about'>About</a>
-        <a href='/#projects'>Projects</a>
-        <a href='/#experience'>Experience</a>
+        <a href='#about'>About</a>
+        <a href='#projects'>Projects</a>
+        <a href='#experience'>Experience</a>
 
         <div style={{marginTop: '1rem'}} />
         <p>Icons provided by <a href='https://icons8.com/'>Icons8</a></p>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c4b7e2ca.css",
-    "main.js": "/portfolio/static/js/main.01cb7d2a.js",
+    "main.js": "/portfolio/static/js/main.2ae42648.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/atari-2600-breakout.png": "/portfolio/static/media/atari-2600-breakout.713c9b7c541ffb3b4bcc.png",
     "static/media/raycast-visualization.gif": "/portfolio/static/media/raycast-visualization.ede7bab482df3a0f4c70.gif",
@@ -24,11 +24,11 @@
     "static/media/info.svg": "/portfolio/static/media/info.e1dc3fa5662d2fa84199619a15dfa962.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
     "main.c4b7e2ca.css.map": "/portfolio/static/css/main.c4b7e2ca.css.map",
-    "main.01cb7d2a.js.map": "/portfolio/static/js/main.01cb7d2a.js.map",
+    "main.2ae42648.js.map": "/portfolio/static/js/main.2ae42648.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b7e2ca.css",
-    "static/js/main.01cb7d2a.js"
+    "static/js/main.2ae42648.js"
   ]
 }

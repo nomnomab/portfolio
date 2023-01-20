@@ -1,0 +1,53 @@
+.window.job {
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+.window.job .header {
+    height: 3rem;
+}
+
+.window.job .content {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 7rem 1fr;
+    grid-template-rows: auto auto auto;
+
+    padding: 1rem;
+    column-gap: 1rem;
+}
+
+.window.job .content img {
+    align-self: flex-start;
+}
+
+.window.job .content .items {
+    display: flex;
+    flex-direction: column;
+
+    font-size: var(--fs-500);
+}
+
+.window.job .content .items .name {
+    font-size: var(--fs-600);
+    font-weight: bold;
+}
+
+.window.job .content .items .description {
+    padding-top: 1rem;
+}
+
+#experience {
+    display: flex;
+    flex-direction: column;
+
+    gap: 4rem;
+}
+
+#experience > .job:nth-child(even) {
+    transform: translateX(5rem);
+}
+
+#experience > .job:nth-child(odd) {
+    transform: translateX(-5rem);
+}

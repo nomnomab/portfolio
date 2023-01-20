@@ -1,0 +1,100 @@
+#projects {
+    background: url('../assets/images/waves-2.svg') bottom;
+    background-size: cover;
+}
+
+.notification {
+    position: absolute;
+    top: 3rem;
+    right: 2rem;
+
+    display: grid;
+    align-items: center;
+    grid-template-columns: 5rem 1fr;
+    grid-template-rows: auto auto auto;
+
+    background: var(--color-fg);
+    border-radius: 12px;
+
+    padding: 1rem 1rem 1rem 0.5rem;
+
+    color: black;
+}
+
+.notification > img {
+    grid-column: 1;
+    grid-row: 1 / -1;
+    justify-self: center;
+    align-self: center;
+}
+
+.notification > p {
+    grid-column: 2;
+}
+
+.notification > p:first-of-type {
+    font-weight: bold;
+    padding-top: 4px;
+}
+
+.project-list {
+    position: absolute;
+    bottom: 6rem;
+
+    display: flex;
+    justify-content: space-between;
+
+    color: black;
+
+    gap: 4rem;
+}
+
+.project-list .folder {
+    display: flex;
+    position: relative;
+
+    align-items: center;
+    justify-content: center;
+
+    width: 100px;
+    aspect-ratio: 1;
+
+    margin: 0 auto;
+}
+
+.project-list .folder > img {
+    width: 100%;
+    height: 100%;
+}
+
+.project-list .folder > img:nth-of-type(2) {
+    position: absolute;
+    scale: 0.7;
+
+    transform: translateX(10%) translateY(-30%) rotateZ(-25deg);
+}
+
+.project-list .folder > img:last-of-type {
+    position: absolute;
+}
+
+.project-list .folder-root {
+    transition: filter 0.2s ease-in-out;
+    background: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    border: none;
+}
+
+.project-list .folder-root:hover {
+    filter: brightness(75%);
+    cursor: pointer;
+}
+
+.project-list .folder-root > p {
+    max-width: 140px;
+    font-size: var(--fs-400);
+
+    text-align: center;
+}

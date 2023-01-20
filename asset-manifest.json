@@ -1,16 +1,34 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/portfolio/static/js/main.a840c606.js",
+    "main.css": "/portfolio/static/css/main.c4b7e2ca.css",
+    "main.js": "/portfolio/static/js/main.01cb7d2a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/atari-2600-breakout.png": "/portfolio/static/media/atari-2600-breakout.713c9b7c541ffb3b4bcc.png",
+    "static/media/raycast-visualization.gif": "/portfolio/static/media/raycast-visualization.ede7bab482df3a0f4c70.gif",
+    "static/media/nom-e.png": "/portfolio/static/media/nom-e.bb82582c6feb676e5c5d.png",
+    "static/media/mental-break.png": "/portfolio/static/media/mental-break.c7dd90080abaaddd5093.png",
+    "static/media/portrait.png": "/portfolio/static/media/portrait.f9f55600f6b8b252d541.png",
+    "static/media/into-myth.jpg": "/portfolio/static/media/into-myth.89d05cc37fe3c1876ae6.jpg",
+    "static/media/into-myth.png": "/portfolio/static/media/into-myth.7bd5d3fac290eca17009.png",
+    "static/media/atari.png": "/portfolio/static/media/atari.467451e79ff10316ae76.png",
+    "static/media/i-d.png": "/portfolio/static/media/i-d.5f4554176b3f8fc7778b.png",
+    "static/media/mcdonalds.svg": "/portfolio/static/media/mcdonalds.6384ec7fa88b2ab3eb4b305036a20ae6.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.b2294bccaa20da50b7d58419f07c0892.svg",
+    "static/media/itch.svg": "/portfolio/static/media/itch.e93beee4d79bbe64037e73b38b65e0a4.svg",
+    "static/media/csharp.svg": "/portfolio/static/media/csharp.6a36066073346e3f69830363120bcbd5.svg",
+    "static/media/folder-front.svg": "/portfolio/static/media/folder-front.07a7f1d175e2f8ae3762a2d44d7dcf59.svg",
+    "static/media/waves-2.svg": "/portfolio/static/media/waves-2.e3b735c1fe2ed96afb68.svg",
+    "static/media/unity.svg": "/portfolio/static/media/unity.03cafb12af52b9268e531aca13d1dfd5.svg",
+    "static/media/folder.svg": "/portfolio/static/media/folder.71c1619f11966282be9cedefa15741d7.svg",
     "index.html": "/portfolio/index.html",
-    "main.073c9b0a.css.map": "/portfolio/static/css/main.073c9b0a.css.map",
-    "main.a840c606.js.map": "/portfolio/static/js/main.a840c606.js.map",
+    "static/media/info.svg": "/portfolio/static/media/info.e1dc3fa5662d2fa84199619a15dfa962.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.e9b8df20d092b20af087c400014ff4c8.svg",
+    "main.c4b7e2ca.css.map": "/portfolio/static/css/main.c4b7e2ca.css.map",
+    "main.01cb7d2a.js.map": "/portfolio/static/js/main.01cb7d2a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a840c606.js"
+    "static/css/main.c4b7e2ca.css",
+    "static/js/main.01cb7d2a.js"
   ]
 }
